@@ -20,8 +20,8 @@ The project follows a layered data transformation approach using Bronze, Silver,
 
 ## Project Structure
 
+```text
 ali_dbt/
-│
 ├── analyses/
 │   ├── 01_explore.sql
 │   └── jinja-01.sql
@@ -51,8 +51,7 @@ ali_dbt/
 ├── dbt_project.yml
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## Project Architecture
 
